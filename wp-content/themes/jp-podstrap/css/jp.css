@@ -1,0 +1,28 @@
+
+.jumbotron {
+	margin: 10px 0;
+	text-align: center;
+}
+.jumbotron h2 {
+	font-size: 3em;
+	line-height: 1;
+	text-align:center;
+}
+.jumbotron .lead {
+	font-size: 24px;
+	line-height: 1.25;
+	margin-left: 8px;
+	margin-right: 6px;
+}
+.jumbotron .btn {
+	font-size: 21px;
+	line-height: 20px;
+}
+#front-page-video{
+	display: block;
+	text-align: center;
+}
+
+.fp-benefit h2 {
+	text-align:center;
+}
